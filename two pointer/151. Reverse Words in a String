@@ -1,0 +1,16 @@
+import java.util.*;
+class Solution {
+    public String reverseWords(String s) {
+        
+        Stack<String>stack = new Stack<>();
+        StringTokenizer st = new StringTokenizer(s," ");
+        while(st.hasMoreTokens()){
+            stack.push(st.nextToken());
+        }
+        String strs = "";
+        while(stack.isEmpty() != true){
+            strs += stack.pop()+" ";
+        }
+        return strs.trim();
+    }
+}
