@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
