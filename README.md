@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Math
@@ -30,6 +31,7 @@
 | [0018-4sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0027-remove-element) |
 ## Greedy
 |  |
 | ------- |
