@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Math
@@ -21,6 +22,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
