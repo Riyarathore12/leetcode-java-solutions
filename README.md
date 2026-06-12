@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Math
@@ -25,6 +26,7 @@
 | [0011-container-with-most-water](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +58,5 @@
 | ------- |
 | [0015-3sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
