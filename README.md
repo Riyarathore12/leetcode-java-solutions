@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3838-weighted-word-mapping](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
