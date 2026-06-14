@@ -87,5 +87,10 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0155-min-stack) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
