@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3838-weighted-word-mapping](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -37,10 +38,12 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |
@@ -71,6 +74,7 @@
 | [0015-3sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0018-4sum) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -95,4 +99,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
