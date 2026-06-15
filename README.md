@@ -35,6 +35,7 @@
 | [0027-remove-element](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
@@ -75,6 +76,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
