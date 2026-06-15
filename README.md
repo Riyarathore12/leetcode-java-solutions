@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
@@ -77,6 +79,7 @@
 | [0015-3sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0018-4sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
