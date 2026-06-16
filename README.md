@@ -119,5 +119,6 @@
 ## Database
 |  |
 | ------- |
+| [1075-project-employees-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1075-project-employees-i) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
