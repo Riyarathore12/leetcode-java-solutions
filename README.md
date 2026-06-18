@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Geometry
 |  |
