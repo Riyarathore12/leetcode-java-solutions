@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
+| [1732-find-the-highest-altitude](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -129,4 +130,8 @@
 | [1729-find-followers-count](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
