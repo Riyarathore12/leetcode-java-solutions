@@ -63,6 +63,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3838-weighted-word-mapping) |
@@ -143,5 +144,10 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
