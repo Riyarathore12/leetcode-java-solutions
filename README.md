@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1840-maximum-building-height) |
