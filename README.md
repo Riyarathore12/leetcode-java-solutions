@@ -14,6 +14,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -93,6 +95,7 @@
 | [0018-4sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0018-4sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
