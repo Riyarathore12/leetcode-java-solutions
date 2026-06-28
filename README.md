@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
 | [1732-find-the-highest-altitude](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
 |  |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
