@@ -70,6 +70,7 @@
 | [0006-zigzag-conversion](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
