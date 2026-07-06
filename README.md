@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
+| [1288-remove-covered-intervals](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1840-maximum-building-height) |
@@ -100,6 +101,7 @@
 | [0015-3sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0018-4sum) |
+| [1288-remove-covered-intervals](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
