@@ -176,6 +176,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Divide and Conquer
 |  |
