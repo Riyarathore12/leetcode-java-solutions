@@ -23,6 +23,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -35,6 +36,7 @@
 | [0335-self-crossing](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0335-self-crossing) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
@@ -85,6 +87,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0053-maximum-subarray) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
 |  |
@@ -207,4 +210,8 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
