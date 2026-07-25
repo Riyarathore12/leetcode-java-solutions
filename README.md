@@ -46,6 +46,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -128,6 +129,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3536-maximum-product-of-two-digits](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
