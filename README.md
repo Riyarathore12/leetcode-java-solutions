@@ -134,6 +134,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3310-remove-methods-from-project) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Number Theory
 |  |
