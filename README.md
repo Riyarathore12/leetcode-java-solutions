@@ -83,6 +83,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -94,6 +95,7 @@
 | [2126-destroying-asteroids](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -107,6 +109,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -123,6 +126,7 @@
 | [0486-predict-the-winner](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Riyarathore12/leetcode-java-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
